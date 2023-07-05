@@ -12,7 +12,9 @@ To use  flutter_bloc_cookbook, follow these steps:
 
 Include the package in your pubspec.yaml file:
 dependencies:
-  flutter_bloc_cookbook: ^1.0.0  # Replace with the latestversion
+  flutter_bloc_cookbook:
+     git:
+      url: https://github.com/ayomideio/flutter_bloc_cookbook
 
 Usage
 
